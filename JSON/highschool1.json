@@ -1,0 +1,1830 @@
+{
+    "1": {
+        "word": "accept",
+        "desc": "…を受け入れる"
+    },
+    "2": {
+        "word": "achieve",
+        "desc": "…を達成する"
+    },
+    "3": {
+        "word": "acquire",
+        "desc": "…を身につける"
+    },
+    "4": {
+        "word": "add",
+        "desc": "…を付け加える"
+    },
+    "5": {
+        "word": "advance",
+        "desc": "前進する (to advance)前進 (an advance)事前 (prior, in advance)"
+    },
+    "6": {
+        "word": "affect",
+        "desc": "…に影響を与える"
+    },
+    "7": {
+        "word": "agree",
+        "desc": "同意する (you can do it)賛成する (I agree)"
+    },
+    "8": {
+        "word": "allow",
+        "desc": "…を許可する"
+    },
+    "9": {
+        "word": "allow",
+        "desc": "…が～するのを許す"
+    },
+    "10": {
+        "word": "appear",
+        "desc": "現れる"
+    },
+    "11": {
+        "word": "appear",
+        "desc": "…のように思われる"
+    },
+    "12": {
+        "word": "apply",
+        "desc": "…を適用する当てはまる"
+    },
+    "13": {
+        "word": "approach",
+        "desc": "…に近づく"
+    },
+    "14": {
+        "word": "argue",
+        "desc": "（感情的に）論じる…だと主張する"
+    },
+    "15": {
+        "word": "assume",
+        "desc": "…を当然のことと思う…を引き受ける (take over)"
+    },
+    "16": {
+        "word": "avoid",
+        "desc": "…を避ける"
+    },
+    "17": {
+        "word": "bear",
+        "desc": "…を我慢する"
+    },
+    "18": {
+        "word": "beat",
+        "desc": "…をうち負かす"
+    },
+    "19": {
+        "word": "belong",
+        "desc": "属する"
+    },
+    "20": {
+        "word": "bite",
+        "desc": "…を噛む…を刺す"
+    },
+    "21": {
+        "word": "care",
+        "desc": "気にかける (I care)注意 (take care)関心 (care about)"
+    },
+    "22": {
+        "word": "catch",
+        "desc": "…に乗るのに間に合う…が～しているのを見つける"
+    },
+    "23": {
+        "word": "claim",
+        "desc": "…が自分のものだと主張する"
+    },
+    "24": {
+        "word": "communicate",
+        "desc": "意思を伝える (say what I think)…を伝達する (say)"
+    },
+    "25": {
+        "word": "compare",
+        "desc": "…を比較する (to compare)…をたとえる (for example)"
+    },
+    "26": {
+        "word": "consider",
+        "desc": "…について考える (think about)…を～だと見なす (think that something is something)"
+    },
+    "27": {
+        "word": "consume",
+        "desc": "…を消費する"
+    },
+    "28": {
+        "word": "contact",
+        "desc": "…と連絡をとる (I was contacted by)接触 (make contact with/touch)連絡 (contact someone)"
+    },
+    "29": {
+        "word": "contain",
+        "desc": "…を含む (this contains)…が入っている (A is in B)"
+    },
+    "30": {
+        "word": "continue",
+        "desc": "…を続ける"
+    },
+    "31": {
+        "word": "cost",
+        "desc": "…を（費用として）必要とさせる費用 (the cost)"
+    },
+    "32": {
+        "word": "count",
+        "desc": "重要である数える"
+    },
+    "33": {
+        "word": "cover",
+        "desc": "…を覆う…（の範囲を）カバーする"
+    },
+    "34": {
+        "word": "create",
+        "desc": "…を作り出す (make)…を創造する (think of)"
+    },
+    "35": {
+        "word": "cross",
+        "desc": "…を横切る不機嫌な"
+    },
+    "36": {
+        "word": "decline",
+        "desc": "…を断る衰退する低下衰退"
+    },
+    "37": {
+        "word": "define",
+        "desc": "…の意味を明確に述べる"
+    },
+    "38": {
+        "word": "depend",
+        "desc": "依存する次第である"
+    },
+    "39": {
+        "word": "describe",
+        "desc": "…について述べる…を描写する"
+    },
+    "40": {
+        "word": "destroy",
+        "desc": "…を破壊する"
+    },
+    "41": {
+        "word": "determine",
+        "desc": "…を決める"
+    },
+    "42": {
+        "word": "develop",
+        "desc": "…を発達［発展］させる発達する"
+    },
+    "43": {
+        "word": "die",
+        "desc": "死ぬ"
+    },
+    "44": {
+        "word": "disappear",
+        "desc": "消える"
+    },
+    "45": {
+        "word": "discover",
+        "desc": "…を発見する"
+    },
+    "46": {
+        "word": "draw",
+        "desc": "…を引きつける"
+    },
+    "47": {
+        "word": "earn",
+        "desc": "…を稼ぐ"
+    },
+    "48": {
+        "word": "encourage",
+        "desc": "…を励ます…を助長する"
+    },
+    "49": {
+        "word": "enter",
+        "desc": "…に入る"
+    },
+    "50": {
+        "word": "establish",
+        "desc": "…を設立する"
+    },
+    "51": {
+        "word": "excite",
+        "desc": "…を興奮させる"
+    },
+    "52": {
+        "word": "exist",
+        "desc": "存在する"
+    },
+    "53": {
+        "word": "expect",
+        "desc": "…を予想する…を期待する"
+    },
+    "54": {
+        "word": "explain",
+        "desc": "…を説明する"
+    },
+    "55": {
+        "word": "express",
+        "desc": "…を表現する"
+    },
+    "56": {
+        "word": "face",
+        "desc": "…に直面する"
+    },
+    "57": {
+        "word": "fail",
+        "desc": "失敗する"
+    },
+    "58": {
+        "word": "fear",
+        "desc": "…を恐れる恐れ"
+    },
+    "59": {
+        "word": "feed",
+        "desc": "…に食べ物を与える…を養う"
+    },
+    "60": {
+        "word": "fire",
+        "desc": "…を首にする"
+    },
+    "61": {
+        "word": "fit",
+        "desc": "…に適合する適した"
+    },
+    "62": {
+        "word": "flow",
+        "desc": "流れる流れ"
+    },
+    "63": {
+        "word": "follow",
+        "desc": "…の後を追う"
+    },
+    "64": {
+        "word": "gain",
+        "desc": "…を得る獲得"
+    },
+    "65": {
+        "word": "gather",
+        "desc": "…を集める集まる"
+    },
+    "66": {
+        "word": "get",
+        "desc": "…になる…を手に入れる"
+    },
+    "67": {
+        "word": "guess",
+        "desc": "…だと思う…を推測する当てずっぽう"
+    },
+    "68": {
+        "word": "hit",
+        "desc": "…を叩く"
+    },
+    "69": {
+        "word": "hold",
+        "desc": "…を（一時的に）持っている"
+    },
+    "70": {
+        "word": "hunt",
+        "desc": "捜し求める"
+    },
+    "71": {
+        "word": "hurt",
+        "desc": "…を傷つける"
+    },
+    "72": {
+        "word": "imagine",
+        "desc": "…を想像する"
+    },
+    "73": {
+        "word": "improve",
+        "desc": "…を改善する"
+    },
+    "74": {
+        "word": "include",
+        "desc": "…を含む"
+    },
+    "75": {
+        "word": "increase",
+        "desc": "…を増やす増える"
+    },
+    "76": {
+        "word": "indicate",
+        "desc": "…を指し示す"
+    },
+    "77": {
+        "word": "influence",
+        "desc": "…に影響を及ぼす影響"
+    },
+    "78": {
+        "word": "insist",
+        "desc": "要求する主張する"
+    },
+    "79": {
+        "word": "introduce",
+        "desc": "…を紹介する…を導入する"
+    },
+    "80": {
+        "word": "invent",
+        "desc": "…を発明する"
+    },
+    "81": {
+        "word": "involve",
+        "desc": "…を含む…を巻き込む"
+    },
+    "82": {
+        "word": "lay",
+        "desc": "…を横たえる"
+    },
+    "83": {
+        "word": "lead",
+        "desc": "…の先頭に立つつながる"
+    },
+    "84": {
+        "word": "lie",
+        "desc": "横たわる嘘をつく"
+    },
+    "85": {
+        "word": "lose",
+        "desc": "…を失う負ける"
+    },
+    "86": {
+        "word": "maintain",
+        "desc": "…を維持する…だと主張する"
+    },
+    "87": {
+        "word": "manage",
+        "desc": "何とかうまくやる管理を行う"
+    },
+    "88": {
+        "word": "manufacture",
+        "desc": "製造する"
+    },
+    "89": {
+        "word": "marry",
+        "desc": "…と結婚する"
+    },
+    "90": {
+        "word": "mean",
+        "desc": "…を意味する…を意図する"
+    },
+    "91": {
+        "word": "mention",
+        "desc": "…について言及する"
+    },
+    "92": {
+        "word": "miss",
+        "desc": "…が（い）ないのを寂しく思う…に乗り損なうミスする"
+    },
+    "93": {
+        "word": "observe",
+        "desc": "…を観察する…を遵守する"
+    },
+    "94": {
+        "word": "offer",
+        "desc": "…を申し出る申し出"
+    },
+    "95": {
+        "word": "perform",
+        "desc": "…を行う機能する"
+    },
+    "96": {
+        "word": "please",
+        "desc": "…を喜ばせる"
+    },
+    "97": {
+        "word": "prefer",
+        "desc": "…をより好む"
+    },
+    "98": {
+        "word": "prepare",
+        "desc": "準備をする…に準備をさせる"
+    },
+    "99": {
+        "word": "press",
+        "desc": "…を押すマスコミ(mass communication)"
+    },
+    "100": {
+        "word": "prevent",
+        "desc": "…を妨げる"
+    },
+    "101": {
+        "word": "produce",
+        "desc": "…を生みだす…を生産する"
+    },
+    "102": {
+        "word": "program",
+        "desc": "（実施）計画プログラム"
+    },
+    "103": {
+        "word": "protect",
+        "desc": "…を守る"
+    },
+    "104": {
+        "word": "prove",
+        "desc": "…を証明する…だと判明する"
+    },
+    "105": {
+        "word": "provide",
+        "desc": "…を［…に］与える"
+    },
+    "106": {
+        "word": "publish",
+        "desc": "…を出版する"
+    },
+    "107": {
+        "word": "raise",
+        "desc": "…を上げる"
+    },
+    "108": {
+        "word": "reach",
+        "desc": "…に到着する…に手が届く"
+    },
+    "109": {
+        "word": "realize",
+        "desc": "…だとわかる…を実現する"
+    },
+    "110": {
+        "word": "receive",
+        "desc": "…を受け取る"
+    },
+    "111": {
+        "word": "recognize",
+        "desc": "…がそれ（その人）だとわかる"
+    },
+    "112": {
+        "word": "reduce",
+        "desc": "…を減らす"
+    },
+    "113": {
+        "word": "refer",
+        "desc": "言及する述べる"
+    },
+    "114": {
+        "word": "reflect",
+        "desc": "…を反映する熟考する"
+    },
+    "115": {
+        "word": "refuse",
+        "desc": "…を拒否する"
+    },
+    "116": {
+        "word": "regard",
+        "desc": "…を～と見なす"
+    },
+    "117": {
+        "word": "remain",
+        "desc": "…のままである残る"
+    },
+    "118": {
+        "word": "remember",
+        "desc": "…を覚えている…を思い出す"
+    },
+    "119": {
+        "word": "reply",
+        "desc": "返答する (used in business letters)返答"
+    },
+    "120": {
+        "word": "represent",
+        "desc": "…を表す…を代表する"
+    },
+    "121": {
+        "word": "require",
+        "desc": "…を必要とする"
+    },
+    "122": {
+        "word": "reveal",
+        "desc": "…を明らかにする"
+    },
+    "123": {
+        "word": "rise",
+        "desc": "上がる昇る"
+    },
+    "124": {
+        "word": "risk",
+        "desc": "危険…を危険にさらす"
+    },
+    "125": {
+        "word": "rule",
+        "desc": "…を統治する規則習慣"
+    },
+    "126": {
+        "word": "satisfy",
+        "desc": "…を満足させる"
+    },
+    "127": {
+        "word": "save",
+        "desc": "…を省く…を救う…を貯蓄する"
+    },
+    "128": {
+        "word": "search",
+        "desc": "…を捜す探索捜索"
+    },
+    "129": {
+        "word": "seat",
+        "desc": "…を着席させる席"
+    },
+    "130": {
+        "word": "seek",
+        "desc": "…を求める"
+    },
+    "131": {
+        "word": "seem",
+        "desc": "…であるようだ"
+    },
+    "132": {
+        "word": "serve",
+        "desc": "…の役に立つ…に仕える"
+    },
+    "133": {
+        "word": "share",
+        "desc": "…を分かち合う"
+    },
+    "134": {
+        "word": "solve",
+        "desc": "…を解く"
+    },
+    "135": {
+        "word": "sound",
+        "desc": "…に聞こえる音"
+    },
+    "136": {
+        "word": "spend",
+        "desc": "…を費やす"
+    },
+    "137": {
+        "word": "spread",
+        "desc": "広がる…を広げる"
+    },
+    "138": {
+        "word": "stay",
+        "desc": "…のままであるとどまる"
+    },
+    "139": {
+        "word": "steal",
+        "desc": "…をこっそり盗む"
+    },
+    "140": {
+        "word": "stick",
+        "desc": "くっつく固執する棒きれ"
+    },
+    "141": {
+        "word": "strike",
+        "desc": "…を叩く…に～という印象を与える"
+    },
+    "142": {
+        "word": "struggle",
+        "desc": "もがき苦しむ"
+    },
+    "143": {
+        "word": "suffer",
+        "desc": "苦しむ…を患う"
+    },
+    "144": {
+        "word": "suggest",
+        "desc": "…を提案する…を示唆する"
+    },
+    "145": {
+        "word": "support",
+        "desc": "…を支持［支援］する支持支援"
+    },
+    "146": {
+        "word": "suppose",
+        "desc": "…だと思う…だと仮定する"
+    },
+    "147": {
+        "word": "surprise",
+        "desc": "…を驚かせる驚き"
+    },
+    "148": {
+        "word": "survive",
+        "desc": "（…を切り抜け）生き残る"
+    },
+    "149": {
+        "word": "tend",
+        "desc": "…する傾向がある"
+    },
+    "150": {
+        "word": "treat",
+        "desc": "…を扱う"
+    },
+    "151": {
+        "word": "vary",
+        "desc": "さまざまである"
+    },
+    "152": {
+        "word": "waste",
+        "desc": "…を浪費する浪費廃棄物"
+    },
+    "153": {
+        "word": "wear",
+        "desc": "…を身につけている"
+    },
+    "154": {
+        "word": "win",
+        "desc": "勝つ…を勝ち取る"
+    },
+    "155": {
+        "word": "wonder",
+        "desc": "…かなと思う驚き"
+    },
+    "156": {
+        "word": "worry",
+        "desc": "…を心配させる心配"
+    },
+    "157": {
+        "word": "action",
+        "desc": "動作行動"
+    },
+    "158": {
+        "word": "activity",
+        "desc": "活動"
+    },
+    "159": {
+        "word": "advantage",
+        "desc": "有利利点"
+    },
+    "160": {
+        "word": "aid",
+        "desc": "援助／…を助ける"
+    },
+    "161": {
+        "word": "amount",
+        "desc": "量額"
+    },
+    "162": {
+        "word": "area",
+        "desc": "地域面積"
+    },
+    "163": {
+        "word": "arms",
+        "desc": "武器兵器"
+    },
+    "164": {
+        "word": "aspect",
+        "desc": "局面"
+    },
+    "165": {
+        "word": "atmosphere",
+        "desc": "雰囲気"
+    },
+    "166": {
+        "word": "attempt",
+        "desc": "試み／…を試みる"
+    },
+    "167": {
+        "word": "attitude",
+        "desc": "考え方態度"
+    },
+    "168": {
+        "word": "audience",
+        "desc": "聴衆観客視聴者"
+    },
+    "169": {
+        "word": "basis",
+        "desc": "土台基礎"
+    },
+    "170": {
+        "word": "behavior",
+        "desc": "行動振る舞い"
+    },
+    "171": {
+        "word": "benefit",
+        "desc": "利益／…に利益をもたらす"
+    },
+    "172": {
+        "word": "bill",
+        "desc": "請求書紙幣法案"
+    },
+    "173": {
+        "word": "birth",
+        "desc": "誕生"
+    },
+    "174": {
+        "word": "blood",
+        "desc": "血"
+    },
+    "175": {
+        "word": "brain",
+        "desc": "頭脳"
+    },
+    "176": {
+        "word": "case",
+        "desc": "場合事例"
+    },
+    "177": {
+        "word": "cause",
+        "desc": "原因／…の原因となる…に～させる"
+    },
+    "178": {
+        "word": "challenge",
+        "desc": "挑戦難題／…に異議を唱える"
+    },
+    "179": {
+        "word": "chance",
+        "desc": "機会可能性偶然"
+    },
+    "180": {
+        "word": "character",
+        "desc": "性格特質"
+    },
+    "181": {
+        "word": "choice",
+        "desc": "選択（肢）"
+    },
+    "182": {
+        "word": "civilization",
+        "desc": "文明"
+    },
+    "183": {
+        "word": "class",
+        "desc": "階級等級授業学級"
+    },
+    "184": {
+        "word": "clerk",
+        "desc": "事務員"
+    },
+    "185": {
+        "word": "communication",
+        "desc": "コミュニケーション意思の伝達"
+    },
+    "186": {
+        "word": "community",
+        "desc": "共同社会"
+    },
+    "187": {
+        "word": "company",
+        "desc": "会社仲間"
+    },
+    "188": {
+        "word": "competition",
+        "desc": "競争競争相手"
+    },
+    "189": {
+        "word": "content",
+        "desc": "中身目次／満足して"
+    },
+    "190": {
+        "word": "control",
+        "desc": "支配制御／…を支配［制御］する"
+    },
+    "191": {
+        "word": "crowd",
+        "desc": "群衆人混み"
+    },
+    "192": {
+        "word": "culture",
+        "desc": "文化"
+    },
+    "193": {
+        "word": "customer",
+        "desc": "顧客"
+    },
+    "194": {
+        "word": "damage",
+        "desc": "損害／…に損害を与える"
+    },
+    "195": {
+        "word": "degree",
+        "desc": "程度度"
+    },
+    "196": {
+        "word": "demand",
+        "desc": "要求需要／…を要求する"
+    },
+    "197": {
+        "word": "desire",
+        "desc": "願望／…を強く望む"
+    },
+    "198": {
+        "word": "detail",
+        "desc": "詳細"
+    },
+    "199": {
+        "word": "development",
+        "desc": "発展発達"
+    },
+    "200": {
+        "word": "difference",
+        "desc": "違い"
+    },
+    "201": {
+        "word": "difficulty",
+        "desc": "困難苦労"
+    },
+    "202": {
+        "word": "direction",
+        "desc": "方向方角"
+    },
+    "203": {
+        "word": "disease",
+        "desc": "病気"
+    },
+    "204": {
+        "word": "distance",
+        "desc": "距離"
+    },
+    "205": {
+        "word": "doubt",
+        "desc": "疑い／…を疑う"
+    },
+    "206": {
+        "word": "economy",
+        "desc": "経済"
+    },
+    "207": {
+        "word": "education",
+        "desc": "教育"
+    },
+    "208": {
+        "word": "effect",
+        "desc": "効果影響結果"
+    },
+    "209": {
+        "word": "environment",
+        "desc": "環境"
+    },
+    "210": {
+        "word": "event",
+        "desc": "出来事行事"
+    },
+    "211": {
+        "word": "evidence",
+        "desc": "証拠"
+    },
+    "212": {
+        "word": "exchange",
+        "desc": "交換／…を交換する"
+    },
+    "213": {
+        "word": "exercise",
+        "desc": "運動練習／運動をする"
+    },
+    "214": {
+        "word": "experience",
+        "desc": "経験／…を経験する"
+    },
+    "215": {
+        "word": "experiment",
+        "desc": "実験"
+    },
+    "216": {
+        "word": "expression",
+        "desc": "表現"
+    },
+    "217": {
+        "word": "fact",
+        "desc": "事実"
+    },
+    "218": {
+        "word": "factor",
+        "desc": "要因要素"
+    },
+    "219": {
+        "word": "failure",
+        "desc": "失敗失敗作失敗者"
+    },
+    "220": {
+        "word": "feature",
+        "desc": "特徴／…を目玉とする"
+    },
+    "221": {
+        "word": "field",
+        "desc": "分野領域野原畑"
+    },
+    "222": {
+        "word": "figure",
+        "desc": "数字姿人物"
+    },
+    "223": {
+        "word": "force",
+        "desc": "力／…を［に］強制する"
+    },
+    "224": {
+        "word": "form",
+        "desc": "形態／…を形成する"
+    },
+    "225": {
+        "word": "freedom",
+        "desc": "自由"
+    },
+    "226": {
+        "word": "generation",
+        "desc": "世代"
+    },
+    "227": {
+        "word": "godGod",
+        "desc": "神"
+    },
+    "228": {
+        "word": "government",
+        "desc": "政府統治"
+    },
+    "229": {
+        "word": "growth",
+        "desc": "成長"
+    },
+    "230": {
+        "word": "habit",
+        "desc": "（個人の）習慣，癖"
+    },
+    "231": {
+        "word": "history",
+        "desc": "歴史"
+    },
+    "232": {
+        "word": "idea",
+        "desc": "考え思いつき"
+    },
+    "233": {
+        "word": "industry",
+        "desc": "産業工業"
+    },
+    "234": {
+        "word": "information",
+        "desc": "情報"
+    },
+    "235": {
+        "word": "issue",
+        "desc": "問題（雑誌などの）号／…を出す"
+    },
+    "236": {
+        "word": "kid",
+        "desc": "子供／（…を）からかう"
+    },
+    "237": {
+        "word": "knowledge",
+        "desc": "知識"
+    },
+    "238": {
+        "word": "labor",
+        "desc": "労働"
+    },
+    "239": {
+        "word": "lack",
+        "desc": "不足欠落／…がない"
+    },
+    "240": {
+        "word": "language",
+        "desc": "ことば言語"
+    },
+    "241": {
+        "word": "law",
+        "desc": "法律法則"
+    },
+    "242": {
+        "word": "level",
+        "desc": "レベル水準程度"
+    },
+    "243": {
+        "word": "life",
+        "desc": "生活，人生，生命"
+    },
+    "244": {
+        "word": "limit",
+        "desc": "限度，制限／…を制限する"
+    },
+    "245": {
+        "word": "line",
+        "desc": "行列"
+    },
+    "246": {
+        "word": "literature",
+        "desc": "文学"
+    },
+    "247": {
+        "word": "loss",
+        "desc": "失うこと損失"
+    },
+    "248": {
+        "word": "majority",
+        "desc": "大多数大半"
+    },
+    "249": {
+        "word": "mark",
+        "desc": "しるし（試験の）点数／…の印となる"
+    },
+    "250": {
+        "word": "market",
+        "desc": "市場 (food market)市場 (economics: the market)"
+    },
+    "251": {
+        "word": "mass",
+        "desc": "塊集団大衆"
+    },
+    "252": {
+        "word": "material",
+        "desc": "材料原料／物質（的）な"
+    },
+    "253": {
+        "word": "meal",
+        "desc": "食事"
+    },
+    "254": {
+        "word": "measure",
+        "desc": "措置測るもの／…を測る"
+    },
+    "255": {
+        "word": "method",
+        "desc": "方法"
+    },
+    "256": {
+        "word": "million",
+        "desc": "百万"
+    },
+    "257": {
+        "word": "mind",
+        "desc": "アタマ思考／…を嫌がる"
+    },
+    "258": {
+        "word": "mistake",
+        "desc": "誤り／…を～と間違える"
+    },
+    "259": {
+        "word": "moment",
+        "desc": "瞬間，時"
+    },
+    "260": {
+        "word": "most",
+        "desc": "大半／最も…"
+    },
+    "261": {
+        "word": "movement",
+        "desc": "動き（政治的・社会的）運動"
+    },
+    "262": {
+        "word": "nation",
+        "desc": "国家民族国民"
+    },
+    "263": {
+        "word": "nature",
+        "desc": "自然性質"
+    },
+    "264": {
+        "word": "note",
+        "desc": "メモ／…に注目［注意］する"
+    },
+    "265": {
+        "word": "object",
+        "desc": "物体対象目的／反対する"
+    },
+    "266": {
+        "word": "office",
+        "desc": "会社仕事部屋公職の地位"
+    },
+    "267": {
+        "word": "opinion",
+        "desc": "意見"
+    },
+    "268": {
+        "word": "opportunity",
+        "desc": "機会"
+    },
+    "269": {
+        "word": "order",
+        "desc": "命令秩序／…に命じる…を注文する"
+    },
+    "270": {
+        "word": "paper",
+        "desc": "新聞書類レポート論文"
+    },
+    "271": {
+        "word": "party",
+        "desc": "政党当事者"
+    },
+    "272": {
+        "word": "period",
+        "desc": "期間時代"
+    },
+    "273": {
+        "word": "phone",
+        "desc": "電話／…に電話をかける"
+    },
+    "274": {
+        "word": "place",
+        "desc": "場所／…を置く"
+    },
+    "275": {
+        "word": "plant",
+        "desc": "植物"
+    },
+    "276": {
+        "word": "pleasure",
+        "desc": "楽しみ喜び"
+    },
+    "277": {
+        "word": "policy",
+        "desc": "政策方針"
+    },
+    "278": {
+        "word": "population",
+        "desc": "人口国民"
+    },
+    "279": {
+        "word": "position",
+        "desc": "位置，立場，地位"
+    },
+    "280": {
+        "word": "power",
+        "desc": "力，権力，大国"
+    },
+    "281": {
+        "word": "practice",
+        "desc": "練習，慣習，実行"
+    },
+    "282": {
+        "word": "president",
+        "desc": "社長，大統領，学長"
+    },
+    "283": {
+        "word": "price",
+        "desc": "値段"
+    },
+    "284": {
+        "word": "principle",
+        "desc": "原理・原則，主義"
+    },
+    "285": {
+        "word": "problem",
+        "desc": "問題"
+    },
+    "286": {
+        "word": "process",
+        "desc": "過程／…を加工処理する"
+    },
+    "287": {
+        "word": "product",
+        "desc": "製品，産物"
+    },
+    "288": {
+        "word": "production",
+        "desc": "生産，製造"
+    },
+    "289": {
+        "word": "progress",
+        "desc": "進歩"
+    },
+    "290": {
+        "word": "purpose",
+        "desc": "目的"
+    },
+    "291": {
+        "word": "quality",
+        "desc": "質"
+    },
+    "292": {
+        "word": "range",
+        "desc": "範囲／範囲が及ぶ"
+    },
+    "293": {
+        "word": "rate",
+        "desc": "率，割合"
+    },
+    "294": {
+        "word": "reality",
+        "desc": "現実"
+    },
+    "295": {
+        "word": "reason",
+        "desc": "理由，理性"
+    },
+    "296": {
+        "word": "relation",
+        "desc": "関係"
+    },
+    "297": {
+        "word": "relationship",
+        "desc": "関係"
+    },
+    "298": {
+        "word": "research",
+        "desc": "研究，調査"
+    },
+    "299": {
+        "word": "respect",
+        "desc": "尊敬，尊重，点／…を尊敬する"
+    },
+    "300": {
+        "word": "response",
+        "desc": "反応，返答"
+    },
+    "301": {
+        "word": "rest",
+        "desc": "休憩，その他／休憩する"
+    },
+    "302": {
+        "word": "result",
+        "desc": "結果"
+    },
+    "303": {
+        "word": "science",
+        "desc": "科学"
+    },
+    "304": {
+        "word": "sense",
+        "desc": "感覚，意味"
+    },
+    "305": {
+        "word": "shape",
+        "desc": "形／…を形作る"
+    },
+    "306": {
+        "word": "side",
+        "desc": "側面，側"
+    },
+    "307": {
+        "word": "sign",
+        "desc": "兆候／…に署名をする"
+    },
+    "308": {
+        "word": "situation",
+        "desc": "状況，情勢"
+    },
+    "309": {
+        "word": "skill",
+        "desc": "技能"
+    },
+    "310": {
+        "word": "society",
+        "desc": "社会"
+    },
+    "311": {
+        "word": "sort",
+        "desc": "種類"
+    },
+    "312": {
+        "word": "species",
+        "desc": "（動植物の）種"
+    },
+    "313": {
+        "word": "speech",
+        "desc": "話，スピーチ，演説"
+    },
+    "314": {
+        "word": "stage",
+        "desc": "段階，舞台"
+    },
+    "315": {
+        "word": "standard",
+        "desc": "標準，基準"
+    },
+    "316": {
+        "word": "state",
+        "desc": "状態，国家，州"
+    },
+    "317": {
+        "word": "step",
+        "desc": "措置，歩み"
+    },
+    "318": {
+        "word": "stranger",
+        "desc": "見知らぬ人，（ある場所に）初めて来た人"
+    },
+    "319": {
+        "word": "stress",
+        "desc": "強調，重圧／…を強調する"
+    },
+    "320": {
+        "word": "structure",
+        "desc": "構造"
+    },
+    "321": {
+        "word": "subject",
+        "desc": "話題，主題"
+    },
+    "322": {
+        "word": "success",
+        "desc": "成功，成功したもの［人］"
+    },
+    "323": {
+        "word": "supply",
+        "desc": "供給／…に供給する"
+    },
+    "324": {
+        "word": "surface",
+        "desc": "表面"
+    },
+    "325": {
+        "word": "system",
+        "desc": "体制，体系，組織"
+    },
+    "326": {
+        "word": "task",
+        "desc": "仕事，作業"
+    },
+    "327": {
+        "word": "taste",
+        "desc": "味／…な味がする"
+    },
+    "328": {
+        "word": "technology",
+        "desc": "テクノロジー，科学技術"
+    },
+    "329": {
+        "word": "temperature",
+        "desc": "温度，体温"
+    },
+    "330": {
+        "word": "term",
+        "desc": "期間，学期，用語，条件，間柄"
+    },
+    "331": {
+        "word": "theory",
+        "desc": "理論"
+    },
+    "332": {
+        "word": "trade",
+        "desc": "貿易，…を交換する"
+    },
+    "333": {
+        "word": "traffic",
+        "desc": "交通，往来／交通の"
+    },
+    "334": {
+        "word": "truth",
+        "desc": "真実"
+    },
+    "335": {
+        "word": "universe",
+        "desc": "宇宙"
+    },
+    "336": {
+        "word": "university",
+        "desc": "大学"
+    },
+    "337": {
+        "word": "value",
+        "desc": "価値／…を重んじる"
+    },
+    "338": {
+        "word": "variety",
+        "desc": "多様"
+    },
+    "339": {
+        "word": "view",
+        "desc": "眺め，見方／…を見る，…を～と見なす"
+    },
+    "340": {
+        "word": "war",
+        "desc": "戦争"
+    },
+    "341": {
+        "word": "weather",
+        "desc": "気候，天気"
+    },
+    "342": {
+        "word": "weight",
+        "desc": "重さ，体重"
+    },
+    "343": {
+        "word": "afraid",
+        "desc": "心配して怖がって"
+    },
+    "344": {
+        "word": "ancient",
+        "desc": "古代の大昔の"
+    },
+    "345": {
+        "word": "available",
+        "desc": "利用できる人の手があいている"
+    },
+    "346": {
+        "word": "average",
+        "desc": "平均の／平均"
+    },
+    "347": {
+        "word": "aware",
+        "desc": "気づいている"
+    },
+    "348": {
+        "word": "basic",
+        "desc": "基本的な基礎的な"
+    },
+    "349": {
+        "word": "certain",
+        "desc": "ある…確信している"
+    },
+    "350": {
+        "word": "close",
+        "desc": "近い親密な"
+    },
+    "351": {
+        "word": "common",
+        "desc": "一般的な共通の"
+    },
+    "352": {
+        "word": "complete",
+        "desc": "完全な"
+    },
+    "353": {
+        "word": "complex",
+        "desc": "複雑な"
+    },
+    "354": {
+        "word": "concerned",
+        "desc": "関わっている心配している"
+    },
+    "355": {
+        "word": "correct",
+        "desc": "正確な／…を訂正する"
+    },
+    "356": {
+        "word": "direct",
+        "desc": "直接の"
+    },
+    "357": {
+        "word": "dressed",
+        "desc": "服を身につけた"
+    },
+    "358": {
+        "word": "due",
+        "desc": "行われる［到着する］予定である"
+    },
+    "359": {
+        "word": "economic",
+        "desc": "経済の経済的な"
+    },
+    "360": {
+        "word": "environmental",
+        "desc": "環境の"
+    },
+    "361": {
+        "word": "equal",
+        "desc": "等しい／…に等しい"
+    },
+    "362": {
+        "word": "essential",
+        "desc": "不可欠な"
+    },
+    "363": {
+        "word": "expensive",
+        "desc": "値段が高い"
+    },
+    "364": {
+        "word": "familiar",
+        "desc": "馴染みのある"
+    },
+    "365": {
+        "word": "famous",
+        "desc": "有名な"
+    },
+    "366": {
+        "word": "foreign",
+        "desc": "外国の"
+    },
+    "367": {
+        "word": "free",
+        "desc": "束縛のない，無料の，暇な"
+    },
+    "368": {
+        "word": "full",
+        "desc": "いっぱいの，満腹である"
+    },
+    "369": {
+        "word": "general",
+        "desc": "一般的な，全般的な"
+    },
+    "370": {
+        "word": "healthy",
+        "desc": "健康（的）な"
+    },
+    "371": {
+        "word": "heavy",
+        "desc": "重い，大量の"
+    },
+    "372": {
+        "word": "huge",
+        "desc": "巨大な"
+    },
+    "373": {
+        "word": "human",
+        "desc": "人間の／人間"
+    },
+    "374": {
+        "word": "impossible",
+        "desc": "不可能な，だめな"
+    },
+    "375": {
+        "word": "individual",
+        "desc": "個人の，個々の／個人"
+    },
+    "376": {
+        "word": "industrial",
+        "desc": "産業の，工業の"
+    },
+    "377": {
+        "word": "international",
+        "desc": "国際的な"
+    },
+    "378": {
+        "word": "likely",
+        "desc": "可能性が高い"
+    },
+    "379": {
+        "word": "local",
+        "desc": "地元の"
+    },
+    "380": {
+        "word": "major",
+        "desc": "主な，大きな／専攻する"
+    },
+    "381": {
+        "word": "married",
+        "desc": "結婚した，既婚の"
+    },
+    "382": {
+        "word": "medical",
+        "desc": "医学の，医療の"
+    },
+    "383": {
+        "word": "mental",
+        "desc": "精神の，知的な"
+    },
+    "384": {
+        "word": "modern",
+        "desc": "現代の，近代の"
+    },
+    "385": {
+        "word": "national",
+        "desc": "国の，国立の"
+    },
+    "386": {
+        "word": "native",
+        "desc": "生まれ故郷の，生来の"
+    },
+    "387": {
+        "word": "natural",
+        "desc": "当然の，自然の"
+    },
+    "388": {
+        "word": "necessary",
+        "desc": "必要な"
+    },
+    "389": {
+        "word": "obvious",
+        "desc": "明白な"
+    },
+    "390": {
+        "word": "ordinary",
+        "desc": "普通の"
+    },
+    "391": {
+        "word": "original",
+        "desc": "当初の／原文"
+    },
+    "392": {
+        "word": "own",
+        "desc": "自身の／…を所有している"
+    },
+    "393": {
+        "word": "particular",
+        "desc": "特定の，特にその，気むずかしい"
+    },
+    "394": {
+        "word": "past",
+        "desc": "過去の／過去"
+    },
+    "395": {
+        "word": "personal",
+        "desc": "個人的な，個人の"
+    },
+    "396": {
+        "word": "physical",
+        "desc": "身体の身体の物理的な"
+    },
+    "397": {
+        "word": "political",
+        "desc": "政治の，政治的な"
+    },
+    "398": {
+        "word": "popular",
+        "desc": "人気のある，大衆の"
+    },
+    "399": {
+        "word": "possible",
+        "desc": "可能な"
+    },
+    "400": {
+        "word": "practical",
+        "desc": "実用的な実際的な"
+    },
+    "401": {
+        "word": "present",
+        "desc": "出席している現在の"
+    },
+    "402": {
+        "word": "private",
+        "desc": "個人的な私的な"
+    },
+    "403": {
+        "word": "professional",
+        "desc": "専門職の／専門職の人"
+    },
+    "404": {
+        "word": "public",
+        "desc": "公共の／大衆"
+    },
+    "405": {
+        "word": "recent",
+        "desc": "最近の"
+    },
+    "406": {
+        "word": "related",
+        "desc": "関係している関連した"
+    },
+    "407": {
+        "word": "right",
+        "desc": "正しい／権利"
+    },
+    "408": {
+        "word": "round",
+        "desc": "丸い"
+    },
+    "409": {
+        "word": "scientific",
+        "desc": "科学の"
+    },
+    "410": {
+        "word": "separate",
+        "desc": "分離した／…を切り離す"
+    },
+    "411": {
+        "word": "serious",
+        "desc": "真剣な深刻な"
+    },
+    "412": {
+        "word": "similar",
+        "desc": "よく似た"
+    },
+    "413": {
+        "word": "single",
+        "desc": "一つの一人の独身の"
+    },
+    "414": {
+        "word": "social",
+        "desc": "社会の社交の"
+    },
+    "415": {
+        "word": "special",
+        "desc": "特別な"
+    },
+    "416": {
+        "word": "strange",
+        "desc": "奇妙な見知らぬ"
+    },
+    "417": {
+        "word": "sure",
+        "desc": "確信して確実な"
+    },
+    "418": {
+        "word": "thick",
+        "desc": "厚い"
+    },
+    "419": {
+        "word": "traditional",
+        "desc": "伝統的な"
+    },
+    "420": {
+        "word": "useful",
+        "desc": "役に立つ"
+    },
+    "421": {
+        "word": "various",
+        "desc": "さまざまな"
+    },
+    "422": {
+        "word": "vast",
+        "desc": "非常に大きな"
+    },
+    "423": {
+        "word": "whole",
+        "desc": "…の全て全体の"
+    },
+    "424": {
+        "word": "wrong",
+        "desc": "間違った"
+    },
+    "425": {
+        "word": "abroad",
+        "desc": "外国で外国へ"
+    },
+    "426": {
+        "word": "actually",
+        "desc": "実際に現実に"
+    },
+    "427": {
+        "word": "badly",
+        "desc": "ひどく悪く"
+    },
+    "428": {
+        "word": "especially",
+        "desc": "特に"
+    },
+    "429": {
+        "word": "eventually",
+        "desc": "最終的には"
+    },
+    "430": {
+        "word": "exactly",
+        "desc": "正確［厳密］にちょうど"
+    },
+    "431": {
+        "word": "extremely",
+        "desc": "極端に"
+    },
+    "432": {
+        "word": "forward",
+        "desc": "前方へ"
+    },
+    "433": {
+        "word": "frequently",
+        "desc": "頻繁に"
+    },
+    "434": {
+        "word": "generally",
+        "desc": "一般的に"
+    },
+    "435": {
+        "word": "highly",
+        "desc": "とても高く"
+    },
+    "436": {
+        "word": "however",
+        "desc": "しかしながら"
+    },
+    "437": {
+        "word": "immediately",
+        "desc": "即座に"
+    },
+    "438": {
+        "word": "indeed",
+        "desc": "確かに"
+    },
+    "439": {
+        "word": "later",
+        "desc": "後に…後"
+    },
+    "440": {
+        "word": "maybe",
+        "desc": "たぶん五分五分で"
+    },
+    "441": {
+        "word": "merely",
+        "desc": "単に"
+    },
+    "442": {
+        "word": "naturally",
+        "desc": "当然自然に"
+    },
+    "443": {
+        "word": "otherwise",
+        "desc": "さもなければそれとは違うように"
+    },
+    "444": {
+        "word": "particularly",
+        "desc": "特に"
+    },
+    "445": {
+        "word": "pretty",
+        "desc": "かなり"
+    },
+    "446": {
+        "word": "probably",
+        "desc": "おそらく"
+    },
+    "447": {
+        "word": "quite",
+        "desc": "かなり全く"
+    },
+    "448": {
+        "word": "recently",
+        "desc": "最近"
+    },
+    "449": {
+        "word": "simply",
+        "desc": "単に"
+    },
+    "450": {
+        "word": "therefore",
+        "desc": "それゆえ"
+    },
+    "451": {
+        "word": "although",
+        "desc": "…だけれども"
+    },
+    "452": {
+        "word": "unless",
+        "desc": "…でない限り（原則として）"
+    },
+    "453": {
+        "word": "while",
+        "desc": "…である一方で…している間に"
+    },
+    "454": {
+        "word": "except",
+        "desc": "…を除いて"
+    },
+    "455": {
+        "word": "toward",
+        "desc": "…に向かって"
+    },
+    "456": {
+        "word": "worth",
+        "desc": "…の価値がある"
+    },
+    "457": {
+        "word": "behind",
+        "desc": "…の背後に／背後に"
+    }
+}

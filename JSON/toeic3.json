@@ -1,0 +1,402 @@
+{
+    "1": {
+        "word": "abridged",
+        "desc": "要約された"
+    },
+    "2": {
+        "word": "accomplished",
+        "desc": "完成した、既成の、熟練した"
+    },
+    "3": {
+        "word": "acknowledgement",
+        "desc": "承認、領収書、感謝のしるし"
+    },
+    "4": {
+        "word": "aging",
+        "desc": "老齢化、老化、熟成"
+    },
+    "5": {
+        "word": "alert",
+        "desc": "油断のない、警戒して"
+    },
+    "6": {
+        "word": "allergy",
+        "desc": "アレルギー"
+    },
+    "7": {
+        "word": "appetizer",
+        "desc": "食欲をそそるもの、前菜"
+    },
+    "8": {
+        "word": "applause",
+        "desc": "拍手かっさい、称賛"
+    },
+    "9": {
+        "word": "assorted",
+        "desc": "分類した、調和した"
+    },
+    "10": {
+        "word": "attire",
+        "desc": "盛装する"
+    },
+    "11": {
+        "word": "austere",
+        "desc": "厳しい、質素な"
+    },
+    "12": {
+        "word": "avid",
+        "desc": "貪欲な、熱心な、渇望して"
+    },
+    "13": {
+        "word": "ban",
+        "desc": "禁止、禁止令、禁止する"
+    },
+    "14": {
+        "word": "bear",
+        "desc": "産む、出産する"
+    },
+    "15": {
+        "word": "boost",
+        "desc": "押し上げ、後援、増大"
+    },
+    "16": {
+        "word": "breathtakingly",
+        "desc": "あっと言わせるほど"
+    },
+    "17": {
+        "word": "bulk",
+        "desc": "大きさ、積み荷、かさばる"
+    },
+    "18": {
+        "word": "burst",
+        "desc": "破裂する"
+    },
+    "19": {
+        "word": "bypass",
+        "desc": "バイパス、側管"
+    },
+    "20": {
+        "word": "carrier",
+        "desc": "運搬人、郵便配達員、新聞配達人、運送業者、運送会社"
+    },
+    "21": {
+        "word": "certified",
+        "desc": "保証された、公認の"
+    },
+    "22": {
+        "word": "chronic",
+        "desc": "長引く、ひどい"
+    },
+    "23": {
+        "word": "circulation",
+        "desc": "循環、流通、発行部数、売れ行き"
+    },
+    "24": {
+        "word": "cite",
+        "desc": "引用する"
+    },
+    "25": {
+        "word": "colossal",
+        "desc": "巨大な、すばらしい"
+    },
+    "26": {
+        "word": "commerce",
+        "desc": "商業、通商、貿易、交際"
+    },
+    "27": {
+        "word": "compliance",
+        "desc": "応じること、親切"
+    },
+    "28": {
+        "word": "component",
+        "desc": "構成している、成分の"
+    },
+    "29": {
+        "word": "confidential",
+        "desc": "信任の厚い、内々の、打ち解けて"
+    },
+    "30": {
+        "word": "consistent",
+        "desc": "首尾一貫した、矛盾のない、調和して"
+    },
+    "31": {
+        "word": "correspondent",
+        "desc": "特派員、一致する"
+    },
+    "32": {
+        "word": "courteous",
+        "desc": "礼儀正しく思いやりのある、親切な"
+    },
+    "33": {
+        "word": "craven",
+        "desc": "臆病な、ひきょうな、臆病者"
+    },
+    "34": {
+        "word": "culinary",
+        "desc": "台所の、料理の"
+    },
+    "35": {
+        "word": "deposit",
+        "desc": "預金する、手付金として支払う、預金"
+    },
+    "36": {
+        "word": "distinctive",
+        "desc": "特色のある、特有の"
+    },
+    "37": {
+        "word": "distinguished",
+        "desc": "すぐれた、著名で、上品な"
+    },
+    "38": {
+        "word": "drowsiness",
+        "desc": "眠気"
+    },
+    "39": {
+        "word": "enthusiasm",
+        "desc": "熱中、熱狂、熱中させるもの"
+    },
+    "40": {
+        "word": "entrepreneur",
+        "desc": "起業家、事業家"
+    },
+    "41": {
+        "word": "exceptional",
+        "desc": "例外的な、異常な、すぐれた"
+    },
+    "42": {
+        "word": "exonerate",
+        "desc": "開放する、免除する"
+    },
+    "43": {
+        "word": "exponentially",
+        "desc": "指数関数的に"
+    },
+    "44": {
+        "word": "fabulous",
+        "desc": "伝説上の、信じられないほどの、すばらしい"
+    },
+    "45": {
+        "word": "faculty",
+        "desc": "能力、機能、学部"
+    },
+    "46": {
+        "word": "former",
+        "desc": "前の、以前の、前者"
+    },
+    "47": {
+        "word": "fragile",
+        "desc": "壊れやすい、もろい、はかない"
+    },
+    "48": {
+        "word": "halt",
+        "desc": "立ち止まる、停止する、不完全である"
+    },
+    "49": {
+        "word": "hectic",
+        "desc": "興奮した、てんてこまいの、消耗熱の"
+    },
+    "50": {
+        "word": "implement",
+        "desc": "道具、用具、手段"
+    },
+    "51": {
+        "word": "inclement",
+        "desc": "不良な、荒れ模様の"
+    },
+    "52": {
+        "word": "informative",
+        "desc": "知識を与える、教育的な、有益な"
+    },
+    "53": {
+        "word": "inherit",
+        "desc": "受け継ぐ、相続する、遺伝する"
+    },
+    "54": {
+        "word": "initiative",
+        "desc": "手始め、主導権"
+    },
+    "55": {
+        "word": "inn",
+        "desc": "小旅館、小ホテル、宿屋"
+    },
+    "56": {
+        "word": "incidence",
+        "desc": "発声、発生率、投射"
+    },
+    "57": {
+        "word": "intermission",
+        "desc": "休止、まくあい、休憩時間"
+    },
+    "58": {
+        "word": "introductory",
+        "desc": "紹介の、前置きの、序説の、入門的な、予備の"
+    },
+    "59": {
+        "word": "itinerary",
+        "desc": "旅行日程表、旅行計画"
+    },
+    "60": {
+        "word": "leading",
+        "desc": "先導する、すぐれた、主要な"
+    },
+    "61": {
+        "word": "locksmith",
+        "desc": "錠前師、かぎ屋"
+    },
+    "62": {
+        "word": "lure",
+        "desc": "誘惑するもの、魅惑、ルアー"
+    },
+    "63": {
+        "word": "malfunction",
+        "desc": "機能不全、故障"
+    },
+    "64": {
+        "word": "mortgage",
+        "desc": "抵当、担保"
+    },
+    "65": {
+        "word": "noteworthy",
+        "desc": "注目すべき、顕著な、著しい"
+    },
+    "66": {
+        "word": "nursery",
+        "desc": "保育園、託児所、養成所"
+    },
+    "67": {
+        "word": "outlay",
+        "desc": "支出、経費"
+    },
+    "68": {
+        "word": "overhaul",
+        "desc": "分解検査する、追いついて追い抜く"
+    },
+    "69": {
+        "word": "paralegal",
+        "desc": "パラリーガル、弁護士補助員"
+    },
+    "70": {
+        "word": "patent",
+        "desc": "特許、特許品"
+    },
+    "71": {
+        "word": "patronage",
+        "desc": "後援、ひいき、愛顧"
+    },
+    "72": {
+        "word": "peer",
+        "desc": "同僚、仲間、貴族"
+    },
+    "73": {
+        "word": "physician",
+        "desc": "医師、内科医"
+    },
+    "74": {
+        "word": "plush",
+        "desc": "豪華な、ぜいたくな"
+    },
+    "75": {
+        "word": "prescription",
+        "desc": "処方箋、おきて、法規"
+    },
+    "76": {
+        "word": "proceed",
+        "desc": "続行する、移る、進む"
+    },
+    "77": {
+        "word": "proofreader",
+        "desc": "校正係"
+    },
+    "78": {
+        "word": "posture",
+        "desc": "姿勢、状況、態度"
+    },
+    "79": {
+        "word": "query",
+        "desc": "質問、疑問、疑問符"
+    },
+    "80": {
+        "word": "regulate",
+        "desc": "取り締まる、統制する、調整する"
+    },
+    "81": {
+        "word": "regimen",
+        "desc": "摂生、養生法"
+    },
+    "82": {
+        "word": "resume",
+        "desc": "再び始める、回復する"
+    },
+    "83": {
+        "word": "revenue",
+        "desc": "歳入、総収入、税務局"
+    },
+    "84": {
+        "word": "seasoned",
+        "desc": "味つけした、調味した、経験豊かな"
+    },
+    "85": {
+        "word": "skyrocket",
+        "desc": "打ち上げ花火、急騰する"
+    },
+    "86": {
+        "word": "spare",
+        "desc": "惜しんで使わない、節約する、労を惜しむ"
+    },
+    "87": {
+        "word": "stagnant",
+        "desc": "流れない、よどんでいる、停滞した、不活発な、不景気な"
+    },
+    "88": {
+        "word": "stunning",
+        "desc": "気絶させる、耳を聞こえなくする、すてきな"
+    },
+    "89": {
+        "word": "surgical",
+        "desc": "外科の、整形用の"
+    },
+    "90": {
+        "word": "tidy",
+        "desc": "きちんとした、整然とした、かなりの"
+    },
+    "91": {
+        "word": "trim",
+        "desc": "刈り込んで整える、手入れする、飾りをつける、調節する"
+    },
+    "92": {
+        "word": "typo",
+        "desc": "誤植"
+    },
+    "93": {
+        "word": "unwilling",
+        "desc": "気が進まない、いやいやながらの"
+    },
+    "94": {
+        "word": "valuable",
+        "desc": "高価な、大切な"
+    },
+    "95": {
+        "word": "verification",
+        "desc": "確認、証明"
+    },
+    "96": {
+        "word": "veterinarian",
+        "desc": "獣医"
+    },
+    "97": {
+        "word": "waive",
+        "desc": "放棄する、差し控える、先延ばしする"
+    },
+    "98": {
+        "word": "welder",
+        "desc": "溶接工、溶接機"
+    },
+    "99": {
+        "word": "wildlife",
+        "desc": "野生生物"
+    },
+    "100": {
+        "word": "wring",
+        "desc": "絞る、ねじる、苦しめる"
+    }
+}

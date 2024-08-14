@@ -1,0 +1,402 @@
+{
+    "1": {
+        "word": "abash",
+        "desc": "恥じ入らす、当惑させる"
+    },
+    "2": {
+        "word": "abhor",
+        "desc": "ぞっとするほど嫌う"
+    },
+    "3": {
+        "word": "abide",
+        "desc": "我慢する"
+    },
+    "4": {
+        "word": "abysmal",
+        "desc": "深いふちの、底の知れない、ひどく悪い"
+    },
+    "5": {
+        "word": "acupuncture",
+        "desc": "はり治療"
+    },
+    "6": {
+        "word": "adjourn",
+        "desc": "延期する、延会する"
+    },
+    "7": {
+        "word": "afflict",
+        "desc": "苦しめる、悩ます"
+    },
+    "8": {
+        "word": "affront",
+        "desc": "侮辱る、無礼な言動をする"
+    },
+    "9": {
+        "word": "aggrieved",
+        "desc": "感情を害して、不当な扱いを受けた"
+    },
+    "10": {
+        "word": "algae",
+        "desc": "藻類"
+    },
+    "11": {
+        "word": "allude",
+        "desc": "言及する、ほのめかす"
+    },
+    "12": {
+        "word": "amble",
+        "desc": "ゆっくり歩く"
+    },
+    "13": {
+        "word": "annihilate",
+        "desc": "全滅させる、完敗させる、圧倒する"
+    },
+    "14": {
+        "word": "anorexia",
+        "desc": "食欲不振"
+    },
+    "15": {
+        "word": "bleak",
+        "desc": "寒い、荒れた、寂しい、厳しい"
+    },
+    "16": {
+        "word": "blunder",
+        "desc": "まごまごして歩く、つまずく"
+    },
+    "17": {
+        "word": "bounty",
+        "desc": "博愛、寛大、報奨金"
+    },
+    "18": {
+        "word": "brass",
+        "desc": "真ちゅう、金管楽器"
+    },
+    "19": {
+        "word": "bulimia",
+        "desc": "病的飢餓、大食症"
+    },
+    "20": {
+        "word": "burgeoning",
+        "desc": "芽、 若枝"
+    },
+    "21": {
+        "word": "bustle",
+        "desc": "忙しそうに動く、せわしく働く、にぎわう"
+    },
+    "22": {
+        "word": "canopy",
+        "desc": "天蓋、天蓋のようにおおうもの、大空"
+    },
+    "23": {
+        "word": "capricious",
+        "desc": "気まぐれな、移り気な、急変しがちな"
+    },
+    "24": {
+        "word": "caricature",
+        "desc": "風刺画、戯画"
+    },
+    "25": {
+        "word": "chagrin",
+        "desc": "無念、悔しさ"
+    },
+    "26": {
+        "word": "chalice",
+        "desc": "杯、聖杯"
+    },
+    "27": {
+        "word": "decease",
+        "desc": "死亡"
+    },
+    "28": {
+        "word": "deciduous",
+        "desc": "落葉性の、落ちる、はかない、一時的な"
+    },
+    "29": {
+        "word": "defamation",
+        "desc": "中傷"
+    },
+    "30": {
+        "word": "default",
+        "desc": "不履行、怠慢、債務不履行、棄権"
+    },
+    "31": {
+        "word": "delve",
+        "desc": "探究する、詮索する"
+    },
+    "32": {
+        "word": "desolate",
+        "desc": "荒れ果てた、見る影もない、みじめな、わびしい"
+    },
+    "33": {
+        "word": "engrossed",
+        "desc": "熱中した、夢中になった、熱中して"
+    },
+    "34": {
+        "word": "entail",
+        "desc": "必然的に伴う、相続人を限定して譲る"
+    },
+    "35": {
+        "word": "envisage",
+        "desc": "心に描く、想像する"
+    },
+    "36": {
+        "word": "excrete",
+        "desc": "排泄する"
+    },
+    "37": {
+        "word": "exodus",
+        "desc": "外出、出国"
+    },
+    "38": {
+        "word": "feign",
+        "desc": "装う、ふりをする"
+    },
+    "39": {
+        "word": "fiasco",
+        "desc": "大失敗"
+    },
+    "40": {
+        "word": "flamboyant",
+        "desc": "燃えるような、けばけばしい"
+    },
+    "41": {
+        "word": "fleet",
+        "desc": "艦隊、船団、全車両"
+    },
+    "42": {
+        "word": "flunk",
+        "desc": "しくじる、失敗する、落第させる"
+    },
+    "43": {
+        "word": "forbear",
+        "desc": "控える、我慢する、抑える"
+    },
+    "44": {
+        "word": "garnish",
+        "desc": "料理のつけ合わせ、飾り物"
+    },
+    "45": {
+        "word": "grandiose",
+        "desc": "気取った、偉そうな、崇高な"
+    },
+    "46": {
+        "word": "gratifying",
+        "desc": "満足を与える、心地よい"
+    },
+    "47": {
+        "word": "graze",
+        "desc": "草を食う、軽く食べる、間食をする"
+    },
+    "48": {
+        "word": "growl",
+        "desc": "うなる、がみがみ言う、とどろく"
+    },
+    "49": {
+        "word": "haughty",
+        "desc": "ごうまんな、横柄な"
+    },
+    "50": {
+        "word": "haze",
+        "desc": "薄霧、もや"
+    },
+    "51": {
+        "word": "hermit",
+        "desc": "隠者、世捨て人"
+    },
+    "52": {
+        "word": "hindsight",
+        "desc": "あと知恵"
+    },
+    "53": {
+        "word": "hinge",
+        "desc": "ちょうつがい、かなめ、要点"
+    },
+    "54": {
+        "word": "hoax",
+        "desc": "いっぱい食わせる、かつぐ、かついでさせる"
+    },
+    "55": {
+        "word": "ignoble",
+        "desc": "下劣な、下品な、不名誉な、恥ずべき、身分の卑しい"
+    },
+    "56": {
+        "word": "imposing",
+        "desc": "印象的な、人目をひく、堂々とした"
+    },
+    "57": {
+        "word": "inept",
+        "desc": "不適当な、適性がなくて"
+    },
+    "58": {
+        "word": "infatuated",
+        "desc": "ぼうっとなった、のぼせあがった、夢中になって"
+    },
+    "59": {
+        "word": "insurrection",
+        "desc": "暴動、反乱"
+    },
+    "60": {
+        "word": "juxtapose",
+        "desc": "並べる、並列する"
+    },
+    "61": {
+        "word": "kudos",
+        "desc": "名声、威信、称賛"
+    },
+    "62": {
+        "word": "latch",
+        "desc": "ドア・門などの掛け金"
+    },
+    "63": {
+        "word": "latitude",
+        "desc": "緯度、自由範囲"
+    },
+    "64": {
+        "word": "mar",
+        "desc": "ひどく傷つける、そこなう、台なしにする"
+    },
+    "65": {
+        "word": "mnemonic",
+        "desc": "記憶を助ける、記憶術の"
+    },
+    "66": {
+        "word": "morbid",
+        "desc": "病的な、憂うつな、陰気な、病気に起因する"
+    },
+    "67": {
+        "word": "nimbus",
+        "desc": "雨雲、後光、輝かしい雰囲気"
+    },
+    "68": {
+        "word": "nirvana",
+        "desc": "ニルバーナ、解脱の境地"
+    },
+    "69": {
+        "word": "obliterate",
+        "desc": "消してしまう、抹消する"
+    },
+    "70": {
+        "word": "omnivorous",
+        "desc": "何でも食べる、雑食性の、手当たりしだいに読む、乱読する"
+    },
+    "71": {
+        "word": "optical",
+        "desc": "目の、視覚の、光学上の"
+    },
+    "72": {
+        "word": "outlandish",
+        "desc": "風変わりな、奇異な、奇妙な"
+    },
+    "73": {
+        "word": "pandemonium",
+        "desc": "大混乱、地獄"
+    },
+    "74": {
+        "word": "perturb",
+        "desc": "かき乱す、混乱させる、不安にさせる"
+    },
+    "75": {
+        "word": "placid",
+        "desc": "穏やかな、静かな、落ち着いた"
+    },
+    "76": {
+        "word": "presumptuous",
+        "desc": "押しの強い、無遠慮な、僭越で"
+    },
+    "77": {
+        "word": "privy",
+        "desc": "内々関与して"
+    },
+    "78": {
+        "word": "prodigal",
+        "desc": "浪費する、ぜいたくな、豊富な"
+    },
+    "79": {
+        "word": "profusely",
+        "desc": "豊富に、たくさん"
+    },
+    "80": {
+        "word": "pseudonym",
+        "desc": "ペンネーム"
+    },
+    "81": {
+        "word": "puke",
+        "desc": "吐く"
+    },
+    "82": {
+        "word": "ramshackle",
+        "desc": "今にも倒れそうな、ぐらぐらする、がたがたの"
+    },
+    "83": {
+        "word": "ransack",
+        "desc": "くまなく探る、あさり回る、くまなく探す、ものを奪う"
+    },
+    "84": {
+        "word": "recoil",
+        "desc": "あとずさりする、ひるむ、後退する"
+    },
+    "85": {
+        "word": "redeem",
+        "desc": "弁済する、償還する、請け出す、取り返す"
+    },
+    "86": {
+        "word": "replenish",
+        "desc": "再び満たす、補充する"
+    },
+    "87": {
+        "word": "rudimentary",
+        "desc": "基本の、初歩の、原始的な、粗末な、未発達の"
+    },
+    "88": {
+        "word": "satirical",
+        "desc": "風刺の、風刺的な、風刺を好む"
+    },
+    "89": {
+        "word": "savory",
+        "desc": "味のよい、塩のきいた、辛みのある、おもしろみのある"
+    },
+    "90": {
+        "word": "savvy",
+        "desc": "知る、わかる"
+    },
+    "91": {
+        "word": "scaffold",
+        "desc": "足場、組み立て舞台"
+    },
+    "92": {
+        "word": "shun",
+        "desc": "避ける"
+    },
+    "93": {
+        "word": "singular",
+        "desc": "並はずれた、非凡な、珍しい"
+    },
+    "94": {
+        "word": "tattered",
+        "desc": "ぼろぼろの、ぼろを着た"
+    },
+    "95": {
+        "word": "trample",
+        "desc": "踏みつける、踏みにじる"
+    },
+    "96": {
+        "word": "upright",
+        "desc": "直立した、正しい"
+    },
+    "97": {
+        "word": "venerate",
+        "desc": "崇拝する"
+    },
+    "98": {
+        "word": "vermin",
+        "desc": "害虫、人間のくず、やくざ"
+    },
+    "99": {
+        "word": "viable",
+        "desc": "存立できる、実行可能な、生存できる"
+    },
+    "100": {
+        "word": "wrath",
+        "desc": "激怒、憤り"
+    }
+}

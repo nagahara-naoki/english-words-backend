@@ -1,0 +1,402 @@
+{
+    "1": {
+        "word": "acquisition",
+        "desc": "獲得、取得物、利得"
+    },
+    "2": {
+        "word": "admit",
+        "desc": "認める、入れる"
+    },
+    "3": {
+        "word": "agenda",
+        "desc": "協議事項、議事日程、予定表"
+    },
+    "4": {
+        "word": "allocate",
+        "desc": "割り当てる、配分する"
+    },
+    "5": {
+        "word": "annex",
+        "desc": "付加する、添付する、併合する、添付書類"
+    },
+    "6": {
+        "word": "appliance",
+        "desc": "器具、装置、設備、電気製品"
+    },
+    "7": {
+        "word": "appropriately",
+        "desc": "適切に、ふさわしく"
+    },
+    "8": {
+        "word": "approximately",
+        "desc": "おおよそ、ほぼ"
+    },
+    "9": {
+        "word": "aspect",
+        "desc": "面、様相、顔つき"
+    },
+    "10": {
+        "word": "auditorium",
+        "desc": "観客席、大講義室"
+    },
+    "11": {
+        "word": "bid",
+        "desc": "つける、宣言する、入札"
+    },
+    "12": {
+        "word": "brochure",
+        "desc": "パンフレット、小冊子"
+    },
+    "13": {
+        "word": "candidate",
+        "desc": "候補者"
+    },
+    "14": {
+        "word": "cardboard",
+        "desc": "ボール紙、厚紙"
+    },
+    "15": {
+        "word": "checkup",
+        "desc": "健康診断、検査"
+    },
+    "16": {
+        "word": "commend",
+        "desc": "ほめる、推薦する、ゆだねる"
+    },
+    "17": {
+        "word": "component",
+        "desc": "構成している、成分の"
+    },
+    "18": {
+        "word": "conduct",
+        "desc": "行為、経営、指揮する、案内する、行う"
+    },
+    "19": {
+        "word": "cuisine",
+        "desc": "料理、料理法"
+    },
+    "20": {
+        "word": "deficit",
+        "desc": "不足額、不足、赤字"
+    },
+    "21": {
+        "word": "demand",
+        "desc": "要求する、要求、需要"
+    },
+    "22": {
+        "word": "designate",
+        "desc": "指名する、選定する、任じる、名づける"
+    },
+    "23": {
+        "word": "discard",
+        "desc": "捨てる、処分する"
+    },
+    "24": {
+        "word": "durable",
+        "desc": "永続性のある、長持ちする、丈夫な"
+    },
+    "25": {
+        "word": "eligible",
+        "desc": "適格で、望ましくて"
+    },
+    "26": {
+        "word": "embarrassing",
+        "desc": "ばつの悪い、やっかいな"
+    },
+    "27": {
+        "word": "enthusiastic",
+        "desc": "熱烈な、熱中して"
+    },
+    "28": {
+        "word": "exclusive",
+        "desc": "排他的な、高級な、独占的な"
+    },
+    "29": {
+        "word": "expedite",
+        "desc": "はかどらせる、促進させる"
+    },
+    "30": {
+        "word": "expire",
+        "desc": "満了する、終了する、死ぬ"
+    },
+    "31": {
+        "word": "extinguish",
+        "desc": "消す、失わせる"
+    },
+    "32": {
+        "word": "facilitate",
+        "desc": "容易にする、楽にする、促進する"
+    },
+    "33": {
+        "word": "hallway",
+        "desc": "玄関、廊下"
+    },
+    "34": {
+        "word": "handout",
+        "desc": "折りたたみ広告、刷り物、ハンドアウト、施し物"
+    },
+    "35": {
+        "word": "inventory",
+        "desc": "目録、棚卸し"
+    },
+    "36": {
+        "word": "justify",
+        "desc": "正しいとする、正当化する"
+    },
+    "37": {
+        "word": "lottery",
+        "desc": "くじ引き、運"
+    },
+    "38": {
+        "word": "novice",
+        "desc": "初心者、駆け出しの"
+    },
+    "39": {
+        "word": "obliged",
+        "desc": "せざるをえなくて、ありがたく思って"
+    },
+    "40": {
+        "word": "outdated",
+        "desc": "旧式の、時代遅れの"
+    },
+    "41": {
+        "word": "oval",
+        "desc": "卵形の、楕円形の"
+    },
+    "42": {
+        "word": "pedestrian",
+        "desc": "歩行者、競歩者"
+    },
+    "43": {
+        "word": "plumber",
+        "desc": "配管工、水道業者"
+    },
+    "44": {
+        "word": "pottery",
+        "desc": "陶器製造、焼き物、窯元"
+    },
+    "45": {
+        "word": "premise",
+        "desc": "前提、家屋"
+    },
+    "46": {
+        "word": "procedure",
+        "desc": "手続き、訴訟手続き、"
+    },
+    "47": {
+        "word": "prohibit",
+        "desc": "禁止する、妨げる"
+    },
+    "48": {
+        "word": "property",
+        "desc": "財産、所有物、土地、特性"
+    },
+    "49": {
+        "word": "pursue",
+        "desc": "追う、追求する、従事する"
+    },
+    "50": {
+        "word": "reference",
+        "desc": "参考、参考文献、証明書"
+    },
+    "51": {
+        "word": "reimburse",
+        "desc": "払い戻す、弁済する、返済する"
+    },
+    "52": {
+        "word": "relief",
+        "desc": "除去、ほっとすること、安心、救援"
+    },
+    "53": {
+        "word": "retrieve",
+        "desc": "回収する、取り戻す"
+    },
+    "54": {
+        "word": "shopper",
+        "desc": "買い物客、買い物袋、密告者"
+    },
+    "55": {
+        "word": "slate",
+        "desc": "粘板岩、石板、候補者名簿"
+    },
+    "56": {
+        "word": "souvenir",
+        "desc": "記念品、みやげ"
+    },
+    "57": {
+        "word": "speculate",
+        "desc": "思索する、推測をする"
+    },
+    "58": {
+        "word": "standstill",
+        "desc": "停止、休止、行き詰まり"
+    },
+    "59": {
+        "word": "stroll",
+        "desc": "ぶらつく、散歩する"
+    },
+    "60": {
+        "word": "subsidiary",
+        "desc": "補足する、助成金の"
+    },
+    "61": {
+        "word": "substitute",
+        "desc": "代える、取り替える"
+    },
+    "62": {
+        "word": "superb",
+        "desc": "すばらしい、堂々とした、壮麗な"
+    },
+    "63": {
+        "word": "superintendent",
+        "desc": "管理者、長官、部長"
+    },
+    "64": {
+        "word": "supplement",
+        "desc": "補足、付録、追加する"
+    },
+    "65": {
+        "word": "surpass",
+        "desc": "上回る、超える、まさる"
+    },
+    "66": {
+        "word": "surrounding",
+        "desc": "囲む、周囲の"
+    },
+    "67": {
+        "word": "suspicion",
+        "desc": "容疑、疑い、いぶかり、気づくこと"
+    },
+    "68": {
+        "word": "swiftly",
+        "desc": "迅速に"
+    },
+    "69": {
+        "word": "tariff",
+        "desc": "関税、運賃表、料金表"
+    },
+    "70": {
+        "word": "thaw",
+        "desc": "解ける、打ち解ける"
+    },
+    "71": {
+        "word": "timepiece",
+        "desc": "時計"
+    },
+    "72": {
+        "word": "token",
+        "desc": "しるし、記念品、しるしとなる"
+    },
+    "73": {
+        "word": "tolerate",
+        "desc": "大目に見る、耐性がある"
+    },
+    "74": {
+        "word": "transfer",
+        "desc": "移す、転任させる、移転、移動"
+    },
+    "75": {
+        "word": "transparent",
+        "desc": "透明な、わかりやすい"
+    },
+    "76": {
+        "word": "tuition",
+        "desc": "教授、授業料、月謝"
+    },
+    "77": {
+        "word": "turbulent",
+        "desc": "荒れ狂う、激しい、乱暴な"
+    },
+    "78": {
+        "word": "turnout",
+        "desc": "出席者、生産高、解雇する"
+    },
+    "79": {
+        "word": "unanimous",
+        "desc": "合意して、満場一致の"
+    },
+    "80": {
+        "word": "unearth",
+        "desc": "発掘する、明るみに出す"
+    },
+    "81": {
+        "word": "uniformity",
+        "desc": "一様、均一、画一、一律"
+    },
+    "82": {
+        "word": "utensil",
+        "desc": "用具、家庭用品"
+    },
+    "83": {
+        "word": "utilization",
+        "desc": "利用"
+    },
+    "84": {
+        "word": "vacant",
+        "desc": "空っぽの、空いている、使用されていない"
+    },
+    "85": {
+        "word": "valid",
+        "desc": "根拠の確実な、有効な、正当な"
+    },
+    "86": {
+        "word": "vaporize",
+        "desc": "蒸発させる"
+    },
+    "87": {
+        "word": "vendor",
+        "desc": "行商人、売り主"
+    },
+    "88": {
+        "word": "venue",
+        "desc": "開催地、予定地、場所"
+    },
+    "89": {
+        "word": "vice",
+        "desc": "悪、邪悪、欠陥、不備"
+    },
+    "90": {
+        "word": "virtue",
+        "desc": "徳、美徳、長所"
+    },
+    "91": {
+        "word": "warehouse",
+        "desc": "倉庫、貯蔵所"
+    },
+    "92": {
+        "word": "warning",
+        "desc": "警告"
+    },
+    "93": {
+        "word": "warrant",
+        "desc": "根拠、証明書"
+    },
+    "94": {
+        "word": "welfare",
+        "desc": "福祉、福祉事業、生活保護"
+    },
+    "95": {
+        "word": "wheelbarrow",
+        "desc": "手押し一輪車"
+    },
+    "96": {
+        "word": "wilderness",
+        "desc": "荒れ野、だだっ広い場所"
+    },
+    "97": {
+        "word": "withstand",
+        "desc": "抵抗する、逆らう、我慢する"
+    },
+    "98": {
+        "word": "zeal",
+        "desc": "熱心、熱中、熱意"
+    },
+    "99": {
+        "word": "zealous",
+        "desc": "熱心な、熱狂的な、熱中して"
+    },
+    "100": {
+        "word": "zenith",
+        "desc": "天頂、頂点、絶頂"
+    }
+}

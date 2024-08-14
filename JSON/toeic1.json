@@ -1,0 +1,402 @@
+{
+    "1": {
+        "word": "accommodate",
+        "desc": "〜を収容する、〜を宿泊させる"
+    },
+    "2": {
+        "word": "accounting",
+        "desc": "会計学、 計算、経理"
+    },
+    "3": {
+        "word": "actually",
+        "desc": "実際に、本当のところは"
+    },
+    "4": {
+        "word": "additional",
+        "desc": "付加的な，追加の"
+    },
+    "5": {
+        "word": "administration",
+        "desc": "管理、運営、経営、統治、行政"
+    },
+    "6": {
+        "word": "advance",
+        "desc": "前進、進める、前進させる、提案する、提示する"
+    },
+    "7": {
+        "word": "advertising",
+        "desc": "広告すること、広告"
+    },
+    "8": {
+        "word": "afford",
+        "desc": "余裕がある、差し支えない"
+    },
+    "9": {
+        "word": "analyst",
+        "desc": "分析者、アナリスト"
+    },
+    "10": {
+        "word": "annual",
+        "desc": "年に1度の、例年の、1年の、年々の、毎年の"
+    },
+    "11": {
+        "word": "appear",
+        "desc": "出現する、ように見える、見受けられる"
+    },
+    "12": {
+        "word": "applicant",
+        "desc": "応募者、志願者、申込者、希望者、出願者"
+    },
+    "13": {
+        "word": "appreciate",
+        "desc": "高く評価する、鑑賞する"
+    },
+    "14": {
+        "word": "architect",
+        "desc": "建築家、建築士、設計者、企画者"
+    },
+    "15": {
+        "word": "assess",
+        "desc": "を評価する"
+    },
+    "16": {
+        "word": "attend",
+        "desc": "出席する、参列する."
+    },
+    "17": {
+        "word": "attract",
+        "desc": "引く、引き込む、引き付ける"
+    },
+    "18": {
+        "word": "benefit",
+        "desc": "利益、ためになること、幸福につながる便益"
+    },
+    "19": {
+        "word": "budget",
+        "desc": "政府などの予算案、予算、 経費"
+    },
+    "20": {
+        "word": "cater",
+        "desc": "料理を調達する、提供する、賄う"
+    },
+    "21": {
+        "word": "colleague",
+        "desc": "同僚"
+    },
+    "22": {
+        "word": "compare",
+        "desc": "比較する、対照する"
+    },
+    "23": {
+        "word": "complicated",
+        "desc": "複雑な、入り組んだ"
+    },
+    "24": {
+        "word": "concern",
+        "desc": "関係している、重要である、心配させる"
+    },
+    "25": {
+        "word": "conference",
+        "desc": "会議、協議会、委員会"
+    },
+    "26": {
+        "word": "consumer",
+        "desc": "消費者"
+    },
+    "27": {
+        "word": "contract",
+        "desc": "契約、協定、契約書"
+    },
+    "28": {
+        "word": "current",
+        "desc": "今の、現在の、流通している"
+    },
+    "29": {
+        "word": "decide",
+        "desc": "決定する、決心する"
+    },
+    "30": {
+        "word": "delay",
+        "desc": "遅らせる、延ばす"
+    },
+    "31": {
+        "word": "delighted",
+        "desc": "喜んで、楽しそうな"
+    },
+    "32": {
+        "word": "department",
+        "desc": "売場、省、部、局"
+    },
+    "33": {
+        "word": "designate",
+        "desc": "指名する"
+    },
+    "34": {
+        "word": "develop",
+        "desc": "発達させる"
+    },
+    "35": {
+        "word": "donate",
+        "desc": "贈与する、寄贈する"
+    },
+    "36": {
+        "word": "eliminate",
+        "desc": "除く、排除する、除外する"
+    },
+    "37": {
+        "word": "encourage",
+        "desc": "元気づける、促進する"
+    },
+    "38": {
+        "word": "enroll",
+        "desc": "登録する、入学を認める"
+    },
+    "39": {
+        "word": "estate",
+        "desc": "財産"
+    },
+    "40": {
+        "word": "exceed",
+        "desc": "超過する、越える"
+    },
+    "41": {
+        "word": "except",
+        "desc": "を除いては、～のほかは、～以外では"
+    },
+    "42": {
+        "word": "executive",
+        "desc": "経営幹部，役員，経営者、行政上の、実行する、執行する"
+    },
+    "43": {
+        "word": "exhibit",
+        "desc": "を展示する、陳列する、提示する，示す"
+    },
+    "44": {
+        "word": "expect",
+        "desc": "予期する、期待する"
+    },
+    "45": {
+        "word": "expertise",
+        "desc": "専門的技術、ノウハウ"
+    },
+    "46": {
+        "word": "explain",
+        "desc": "説明する、明らかにする"
+    },
+    "47": {
+        "word": "facility",
+        "desc": "設備、才能"
+    },
+    "48": {
+        "word": "fail",
+        "desc": "失敗する、しそこなう"
+    },
+    "49": {
+        "word": "familiar",
+        "desc": "よく知っている、なじみの、ありふれた、どこにでもある"
+    },
+    "50": {
+        "word": "feature",
+        "desc": "人目を引く特徴、目立った特徴、呼び物"
+    },
+    "51": {
+        "word": "fee",
+        "desc": "料金、謝礼、手数料、入場料"
+    },
+    "52": {
+        "word": "figure",
+        "desc": "図形、形、装飾、数字"
+    },
+    "53": {
+        "word": "frequent",
+        "desc": "たびたびの、頻繁な"
+    },
+    "54": {
+        "word": "further",
+        "desc": "もっと遠い、そのうえ"
+    },
+    "55": {
+        "word": "handle",
+        "desc": "ハンドル、取っ手、扱う、処理する"
+    },
+    "56": {
+        "word": "identification",
+        "desc": "同一であることの確認、身分証明証"
+    },
+    "57": {
+        "word": "improve",
+        "desc": "改良する"
+    },
+    "58": {
+        "word": "include",
+        "desc": "含む"
+    },
+    "59": {
+        "word": "inquire",
+        "desc": "尋ねる、調べる、問い合わせる"
+    },
+    "60": {
+        "word": "instantly",
+        "desc": "すぐに、即座に、するとすぐに"
+    },
+    "61": {
+        "word": "insurance",
+        "desc": "保険、保険業"
+    },
+    "62": {
+        "word": "invest",
+        "desc": "投資する"
+    },
+    "63": {
+        "word": "invite",
+        "desc": "招待する"
+    },
+    "64": {
+        "word": "invoice",
+        "desc": "送り状"
+    },
+    "65": {
+        "word": "involve",
+        "desc": "巻き込む、伴う、夢中になる"
+    },
+    "66": {
+        "word": "luggage",
+        "desc": "旅行かばん類、手荷物"
+    },
+    "67": {
+        "word": "manufacture",
+        "desc": "製造、製造業、製造する"
+    },
+    "68": {
+        "word": "miss",
+        "desc": "取りそこなう、逃す"
+    },
+    "69": {
+        "word": "notice",
+        "desc": "告知、注意すること、注目、気がつく"
+    },
+    "70": {
+        "word": "offer",
+        "desc": "差し出す、提供する、申し出る"
+    },
+    "71": {
+        "word": "owe",
+        "desc": "借りがある、負っている"
+    },
+    "72": {
+        "word": "participate",
+        "desc": "参加する"
+    },
+    "73": {
+        "word": "passenger",
+        "desc": "乗客、旅客"
+    },
+    "74": {
+        "word": "plenty",
+        "desc": "たくさんの、豊富な、あり余るほどの"
+    },
+    "75": {
+        "word": "preservation",
+        "desc": "保存、維持、保管"
+    },
+    "76": {
+        "word": "previous",
+        "desc": "以前の、前の、先の"
+    },
+    "77": {
+        "word": "proceed",
+        "desc": "進む，続行する"
+    },
+    "78": {
+        "word": "promote",
+        "desc": "昇進させる、促進する、助長する"
+    },
+    "79": {
+        "word": "prosperous",
+        "desc": "繁栄する、成功した、好都合の"
+    },
+    "80": {
+        "word": "provide",
+        "desc": "提供する、与える、供給する"
+    },
+    "81": {
+        "word": "publicity",
+        "desc": "世間の注目、宣伝、広告"
+    },
+    "82": {
+        "word": "recommend",
+        "desc": "を勧める、奨励する"
+    },
+    "83": {
+        "word": "refund",
+        "desc": "払い戻す、返金する"
+    },
+    "84": {
+        "word": "remind",
+        "desc": "思い出させる、気づかせる"
+    },
+    "85": {
+        "word": "remove",
+        "desc": "移動させる、取り除く"
+    },
+    "86": {
+        "word": "replacement",
+        "desc": "交換、後継者"
+    },
+    "87": {
+        "word": "representative",
+        "desc": "代表する、描写して、代理の"
+    },
+    "88": {
+        "word": "reservation",
+        "desc": "予約"
+    },
+    "89": {
+        "word": "responsible",
+        "desc": "責任がある"
+    },
+    "90": {
+        "word": "result",
+        "desc": "結果、成り行き、結末"
+    },
+    "91": {
+        "word": "review",
+        "desc": "見直す、よく調べる、批評する"
+    },
+    "92": {
+        "word": "severe",
+        "desc": "ひどい、厳しい"
+    },
+    "93": {
+        "word": "shipment",
+        "desc": "船積み、輸送、発送"
+    },
+    "94": {
+        "word": "shortage",
+        "desc": "不足、欠乏"
+    },
+    "95": {
+        "word": "store",
+        "desc": "蓄え、備品、蓄える"
+    },
+    "96": {
+        "word": "survey",
+        "desc": "概観する，ざっと眺める、調査する、調査"
+    },
+    "97": {
+        "word": "transportation",
+        "desc": "運送、運賃、輸送機関"
+    },
+    "98": {
+        "word": "voucher",
+        "desc": "保証人、クーポン、領収書"
+    },
+    "99": {
+        "word": "workplace",
+        "desc": "仕事場"
+    },
+    "100": {
+        "word": "workshop",
+        "desc": "作業場、ワークショップ"
+    }
+}
